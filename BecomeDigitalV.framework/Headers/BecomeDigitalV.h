@@ -2,8 +2,7 @@
 //  BecomeDigitalV.h
 //  BecomeDigitalV
 //
-//  Created by Nelson Peña on 22/06/20.
-//  Copyright © 2020 Nelson Peña. All rights reserved.
+//  Created by Nelson Peña on 25/02/21.
 //
 
 #import <Foundation/Foundation.h>

@@ -6,119 +6,127 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		3DbjJy0t+DFV4dITgh6huG49Bwc=
+		gSpGUOiRmBS5OJ8WzZHM2+atGPs=
 		</data>
-		<key>BDIVVC.nib/objects-13.0+.nib</key>
+		<key>CameraViewController.nib</key>
 		<data>
-		ddsihi0GYJwiCrUd2FwRuliovpM=
+		p2fc8/ITzmpOrbWdpsBB6+ts4Vw=
 		</data>
-		<key>BDIVVC.nib/runtime.nib</key>
+		<key>CloseViewController.nib/objects-14.0+.nib</key>
 		<data>
-		SJYD+jyKttYzwZWB61r2fqM+agU=
+		83RW1TyA92DC704kxBf43ZtJBOs=
 		</data>
-		<key>CameraVC.nib</key>
+		<key>CloseViewController.nib/runtime.nib</key>
 		<data>
-		YJtQccCtgOHfrynsN/jCueXSIiw=
+		djLXXt1kwqTyDrsnyRUlq8hgu/c=
 		</data>
-		<key>FinishProcessViewController.nib</key>
+		<key>CountryDocumentViewController.nib/objects-14.0+.nib</key>
 		<data>
-		dJhU7HyOx+gyWNIkc/QPthNH1/I=
+		K3VgLd8paU9QSzPfETx34jCOz9E=
+		</data>
+		<key>CountryDocumentViewController.nib/runtime.nib</key>
+		<data>
+		mCNd5NbWkZe47s2NBjFoHzzrYvg=
+		</data>
+		<key>CountryViewController.nib</key>
+		<data>
+		L6KZTl4LSIyf7MM1B6njJM8G1b8=
+		</data>
+		<key>Dictionary.stringsdict</key>
+		<data>
+		vmgQwO1dXieR5nOn5cg96X3XdHQ=
+		</data>
+		<key>FinishViewController.nib</key>
+		<data>
+		fAaI1sMENV9p7xEIq+h3mcA3Prc=
 		</data>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
 		<data>
-		EjIx7y1jGupI0gd0xV6UsgSBpJs=
+		R8IOGGUPMQHYm4enSYprdD7P4yU=
 		</data>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
 		<data>
-		X+PPE8CW6wKD/26eElbO8vcbfos=
+		vDStpqiz1pkw/uN1k3v+4AeZc98=
 		</data>
 		<key>Frameworks/Alamofire.framework/_CodeSignature/CodeResources</key>
 		<data>
-		jye/S8dHi5hLw+QW3V0+tD1qy18=
+		mP8q5nRgDa0b3EN0YnDtVLFD8aM=
 		</data>
 		<key>Headers/BecomeDigitalV-Swift.h</key>
 		<data>
-		zf+AzzWuR/JrTgszXB376N4F3AE=
+		BMqHD+5/v9h8XVpHmLEzwJq7/MA=
 		</data>
 		<key>Headers/BecomeDigitalV.h</key>
 		<data>
-		QFGA0gRlGzE9KOvmfWGaCYRJkxU=
-		</data>
-		<key>ImageViewerViewController.nib</key>
-		<data>
-		KEmszWM7kzwI+CRyUFnOamXMCjs=
+		7MtyiwmrHmK0s/stmW6OBAPLvLU=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KyQzvxVXC3NUo+7eD36Y6EbC2wU=
+		IsUtGYhQrYvh18FIC653PfG9P4s=
 		</data>
-		<key>IntroductionDocumentViewController.nib</key>
+		<key>IntroDocumentCaptureViewController.nib</key>
 		<data>
-		YJZ2xDI3ip4AjM7OzV5mwi97Lwg=
+		YaZ/YbVWefVHWrHHzofs8D4XAtk=
 		</data>
 		<key>IntroductionVideoViewController.nib</key>
 		<data>
-		mx3S9RhQLrbtnoFCxb/Biww4QFc=
+		4Q8kt5AfolCdWAARSJPiGvBuWwI=
 		</data>
-		<key>ListCountriesViewController.nib</key>
+		<key>MainViewController.nib</key>
 		<data>
-		ca9lEgt+hPcl5gxVgb5FbtqKRuE=
+		ZLf371gFrmPqmKdveJG657MH5EE=
 		</data>
-		<key>ModelData.momd/ModelData.mom</key>
+		<key>Model.momd/Model.mom</key>
 		<data>
-		r2OIDwcYyohaxvn+W9Ku4iYfTfM=
+		PgWtmedzwdmyMxNhzL3i/CSvi+I=
 		</data>
-		<key>ModelData.momd/VersionInfo.plist</key>
+		<key>Model.momd/VersionInfo.plist</key>
 		<data>
-		d1aOIozxnKcuE1VetRGrv9QUorY=
+		sWwjbyWGToWZ0N5qjfgrpSxHFzk=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		HK5GfWAiDTBeV1YXSP64xhPSBtM=
+		N0O2EBxhJqf1cGMJ3XQ+J6u/wtc=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		HK5GfWAiDTBeV1YXSP64xhPSBtM=
+		N0O2EBxhJqf1cGMJ3XQ+J6u/wtc=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		M52cGGMpzb44EaKcslSkBdYL7YE=
+		k9JW2TB7wl2w/YclJqr52FbzjvQ=
+		</data>
+		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		/m/A4Rd9O7BfHZGZ+cFKBkXT6BE=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		fJuC1MLaE5pPVovwgL7skYE5rxo=
+		Cm9YPBEAf24KdkVuXAdANAdCQe0=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		M52cGGMpzb44EaKcslSkBdYL7YE=
+		k9JW2TB7wl2w/YclJqr52FbzjvQ=
+		</data>
+		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		/m/A4Rd9O7BfHZGZ+cFKBkXT6BE=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		fJuC1MLaE5pPVovwgL7skYE5rxo=
+		Cm9YPBEAf24KdkVuXAdANAdCQe0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		rta21gqTRmJfEsSHGGhlsPbejQ4=
 		</data>
-		<key>Parameters.stringsdict</key>
+		<key>PreviewImageViewController.nib</key>
 		<data>
-		KWZCI0g7CT2fh4UB56jS76zev5U=
+		pmtrIyB00YsP1x5JDF9PuMLDQfQ=
 		</data>
-		<key>PreparingDCViewController.nib</key>
+		<key>SelectDocumentViewController.nib</key>
 		<data>
-		Jn5Hj++IxI+cnQZw/Cp4j4UEYd8=
-		</data>
-		<key>SelectDocumentTypeViewController.nib</key>
-		<data>
-		ne186Pq3fcbGMrGep61Hsn8Q/bo=
-		</data>
-		<key>StartViewController.nib</key>
-		<data>
-		6Qf+fvgUK5TYvHRiSB7WD3exejE=
-		</data>
-		<key>face-id.gif</key>
-		<data>
-		y0BhJtv4rhs0sJ0tmw7Xj3CCUl4=
+		sw201LWmFNIHPnuRctmHi1dT+Go=
 		</data>
 		<key>liveness.gif</key>
 		<data>
@@ -139,154 +147,189 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JNj6DsMvVKf0mKR06BOh27uQjzb4EKAitmn0Kon7P4U=
+			DfyoXdW1maigD7mZCOosBPi27KU4THFkoBxY1KCQU7A=
 			</data>
 		</dict>
-		<key>BDIVVC.nib/objects-13.0+.nib</key>
+		<key>CameraViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QT0TDDLtdtPkBA071Iy0lMCCttjUwwmHcDHmZiniml8=
+			uNdTKcWfbkEhhqAscl0kxo3hJQpmZR5jeNam9JVykbE=
 			</data>
 		</dict>
-		<key>BDIVVC.nib/runtime.nib</key>
+		<key>CloseViewController.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iY3MWIjYjDWJisKbyJ/gGQnxwoP4l1/cBIu8VrhySRY=
+			extOXxtUF69hLRa6FZJAhTLrqmVhJIjjKNvvWsZa2s4=
 			</data>
 		</dict>
-		<key>CameraVC.nib</key>
+		<key>CloseViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a9aK+FP4JCwisDYMHqO8W9GtuQS328pwsb3hGBcyqTQ=
+			sAxBhLd8ezf5nTNRcQ6+xAACIgDWoOYimfn5ETnDmuA=
 			</data>
 		</dict>
-		<key>FinishProcessViewController.nib</key>
+		<key>CountryDocumentViewController.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WowEnukjkqzZPSoTTst64ZWRqqschKtDsLhR9UypCCI=
+			0PRcyL1FDzA/fghKq9P1OORPyr2xoW8FfNpijWHkzYg=
+			</data>
+		</dict>
+		<key>CountryDocumentViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UAbZXi3EOwHnb5S74/6uRGR1QV07WMzfRngwFfa4s9s=
+			</data>
+		</dict>
+		<key>CountryViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zrgaxVJx51RU2qCMq3pq6c7JP7fId3yWM1srS7tut8M=
+			</data>
+		</dict>
+		<key>Dictionary.stringsdict</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SA7S/ssmOZL+WhokHo/Gp+caEiJkzmqWIUpK2yHLT2o=
+			</data>
+		</dict>
+		<key>FinishViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tUQrJrnud4RcWF0QDOxzPNoOXumrbq6MXTcsnPmz/vw=
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ovyW1fFXWzZpQvyllJYzEWk2UMI3jIM6wdXENTqjhng=
+			qSuWwRrpU1YVRU5WAYy4YvBLX8yrtTlXAio/akUM0Qo=
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y41yFwji4Vn/tAXDUOoS/rRgX5zsndzRmgPgKir6aHU=
+			f8g2kWWU3Qnw4m1YswmLnokijtUCn+usgtGna8nQDDI=
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qi8tCvtehUlIv19cvXXE72Y2RDxD15LB77UqgwckwH4=
+			CcE1PC2V6d0sMY6wpqlpK54MX/w+Eon4uKyJUha0Avo=
 			</data>
 		</dict>
 		<key>Headers/BecomeDigitalV-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fxGfubU1xuMUUABSN5wNeWPNKpjOhl/Gksi4heYWdRc=
+			td0CfPcEPIbH4QaD8pjvnZgd87ZM1LB2AH9FrNCi9ck=
 			</data>
 		</dict>
 		<key>Headers/BecomeDigitalV.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r+tuGM7kdCKektek/Qd5WeQ3DQup4/rP9ErIcL6x+kE=
+			oKvJBLN6W3MVF+PGbtsk8Hyxhf+jry6aYvSbKvzy8rA=
 			</data>
 		</dict>
-		<key>ImageViewerViewController.nib</key>
+		<key>IntroDocumentCaptureViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8r10u5fjpE7Urz2G0CRGgiDbLu1I+zUH+zJeVrZbxnI=
-			</data>
-		</dict>
-		<key>IntroductionDocumentViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vs3f//qV4sVqj+27c/uHsbNRYRUMrVlHivrH3Ze8sXY=
+			kUeRATC7NLWkpdpPLjTcd4PDg3SQhTQYloO1km1+AyI=
 			</data>
 		</dict>
 		<key>IntroductionVideoViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HLLFODponHQRQgGYEzA37TVci9C2zIKMcdPYL91P3Vo=
+			+mCcJhMTsQ+X7gFHEK2C21+2LgI+/w03NwJ/MxKdUg4=
 			</data>
 		</dict>
-		<key>ListCountriesViewController.nib</key>
+		<key>MainViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y0l1LhzxgA6eOgEY7h6To3ZBoF+tsHWh+/QZ2I/7aOw=
+			8N0PCG1/ygZDcqPcSxhCsBR13BDD+O+sn2rFXmi+SM8=
 			</data>
 		</dict>
-		<key>ModelData.momd/ModelData.mom</key>
+		<key>Model.momd/Model.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZsgGzn1xLtIiDRchIQQkeE1RJG7IA6K60D1qqJJN1lk=
+			4EeLZ0mULZspN6jY2ZJHEvnfmIpr7wM1fpfKqvrkG9s=
 			</data>
 		</dict>
-		<key>ModelData.momd/VersionInfo.plist</key>
+		<key>Model.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tt9gYLNM12oO8TeXU1LQlFlDckzBQeB/7lMSZFTh/8E=
+			UGXRXGNgXhH9CDMhQOmwm2Vmj84KjEm9xm1x/F/CNWQ=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			++nAFWr5U/2vFjHR/cL+vUTIX0P8lzRbS4TyyuWsjCc=
+			becQZdGWrRTOOd5+VI9zhvGGnW2yFtT6Y6TlAh4sUhQ=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			++nAFWr5U/2vFjHR/cL+vUTIX0P8lzRbS4TyyuWsjCc=
+			becQZdGWrRTOOd5+VI9zhvGGnW2yFtT6Y6TlAh4sUhQ=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HDuiYyBZsE0vV/86ENYk7qLKDRD7aee9bzW2XOvoqmY=
+			UpGqiN+pphjEkNkgld65oyW5Bd6nxUwJsdyZ67PECYY=
+			</data>
+		</dict>
+		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eCpZYSKs/v96ux1l4TRkJJrhwcLSQk0zaKefmSgE+i0=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RVpBHueDBF0e5+lyLn0IluJlUzprEY0ZTVMwnvnGIhE=
+			wTeObuOuh8oeLVK4fdhPTj8UOLVFddcTFJMMo6c1Svc=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HDuiYyBZsE0vV/86ENYk7qLKDRD7aee9bzW2XOvoqmY=
+			UpGqiN+pphjEkNkgld65oyW5Bd6nxUwJsdyZ67PECYY=
+			</data>
+		</dict>
+		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eCpZYSKs/v96ux1l4TRkJJrhwcLSQk0zaKefmSgE+i0=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RVpBHueDBF0e5+lyLn0IluJlUzprEY0ZTVMwnvnGIhE=
+			wTeObuOuh8oeLVK4fdhPTj8UOLVFddcTFJMMo6c1Svc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -296,39 +339,18 @@
 			TZuqSDBUK8bpnztCZMAuO4xCYwwqEh7wcGA3Vq1EFbU=
 			</data>
 		</dict>
-		<key>Parameters.stringsdict</key>
+		<key>PreviewImageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bBtaTZy8GI7oZB4inK8dO3mvwmbNWGszfUjaIQQtAyk=
+			/lFpa6qF3HAVhUwTjnUgjk2Ql9o/jx23nNWvJPoZ6qw=
 			</data>
 		</dict>
-		<key>PreparingDCViewController.nib</key>
+		<key>SelectDocumentViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PEnUTZAIFdZA80qlEeBrZ5GVA+Svsb+2pw4n8+se5ps=
-			</data>
-		</dict>
-		<key>SelectDocumentTypeViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			m93Z8epkt989SLumaqLHEysZwWxr9OVWIV8HspV813I=
-			</data>
-		</dict>
-		<key>StartViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fPhiVGl9lPcmFBzVE/NtqPqXYfPymocC1Qxxhp7WjL4=
-			</data>
-		</dict>
-		<key>face-id.gif</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			chYQg4p1/eXr0/Ya6lfaBpvg7vXnWhWkD+gmkApy4ug=
+			6ZSJHixhFlwaQGouK8QMO3LuGN7ad1driABV/FTWKf0=
 			</data>
 		</dict>
 		<key>liveness.gif</key>
