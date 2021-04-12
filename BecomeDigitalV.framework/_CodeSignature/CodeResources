@@ -22,11 +22,11 @@
 		</data>
 		<key>CountryDocumentViewController.nib/objects-14.0+.nib</key>
 		<data>
-		K3VgLd8paU9QSzPfETx34jCOz9E=
+		rdF0/ZhbLNge0vQOU5KUUpVIbdo=
 		</data>
 		<key>CountryDocumentViewController.nib/runtime.nib</key>
 		<data>
-		mCNd5NbWkZe47s2NBjFoHzzrYvg=
+		/smaMneqCayfBQFkIpSzoz5bo/c=
 		</data>
 		<key>CountryViewController.nib</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
 		<data>
-		R8IOGGUPMQHYm4enSYprdD7P4yU=
+		hTkBffjZLHefRlkRvO1Z6RBfRS4=
 		</data>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		N0O2EBxhJqf1cGMJ3XQ+J6u/wtc=
+		9V+/9BhjuCH3jzQ3R1c7iFCxjNw=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		N0O2EBxhJqf1cGMJ3XQ+J6u/wtc=
+		9V+/9BhjuCH3jzQ3R1c7iFCxjNw=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -98,11 +98,11 @@
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		/m/A4Rd9O7BfHZGZ+cFKBkXT6BE=
+		4wTxYvK4U02seuJAwGTeyzE9jXM=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Cm9YPBEAf24KdkVuXAdANAdCQe0=
+		6Ch5PqbVbME0U9WAeQwg6lS8GhQ=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -110,11 +110,11 @@
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		/m/A4Rd9O7BfHZGZ+cFKBkXT6BE=
+		4wTxYvK4U02seuJAwGTeyzE9jXM=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Cm9YPBEAf24KdkVuXAdANAdCQe0=
+		6Ch5PqbVbME0U9WAeQwg6lS8GhQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>SelectDocumentViewController.nib</key>
 		<data>
-		sw201LWmFNIHPnuRctmHi1dT+Go=
+		teoVOyHk9OtGjmcEdAPe0u+ScIc=
 		</data>
 		<key>liveness.gif</key>
 		<data>
@@ -175,14 +175,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0PRcyL1FDzA/fghKq9P1OORPyr2xoW8FfNpijWHkzYg=
+			eCkuT2bcfzI70QzMDeXujhGy7OfyOlokduXYkR6rVZ4=
 			</data>
 		</dict>
 		<key>CountryDocumentViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UAbZXi3EOwHnb5S74/6uRGR1QV07WMzfRngwFfa4s9s=
+			xYGsCbHEXHR0Cilr1bpzEk3rYeBw0V0fwLe96MwJB0U=
 			</data>
 		</dict>
 		<key>CountryViewController.nib</key>
@@ -210,7 +210,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qSuWwRrpU1YVRU5WAYy4YvBLX8yrtTlXAio/akUM0Qo=
+			b3EfzipV3zTlYviwmaVzGfuNEZD9wV84hhlJc648uYg=
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
@@ -280,14 +280,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			becQZdGWrRTOOd5+VI9zhvGGnW2yFtT6Y6TlAh4sUhQ=
+			m1qMUDhzreD3K9UaGxGL6PtUUoYhwOeDQ1BcYuNnwss=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			becQZdGWrRTOOd5+VI9zhvGGnW2yFtT6Y6TlAh4sUhQ=
+			m1qMUDhzreD3K9UaGxGL6PtUUoYhwOeDQ1BcYuNnwss=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -301,14 +301,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eCpZYSKs/v96ux1l4TRkJJrhwcLSQk0zaKefmSgE+i0=
+			06bIEHqB19sXiI81NTlnhH6CAHvVejh/g+GeHIzHB88=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wTeObuOuh8oeLVK4fdhPTj8UOLVFddcTFJMMo6c1Svc=
+			JUDEBu86TnNOwt7mdN6h9CqW7lqU4ZZktv01xSefQ/Q=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftdoc</key>
@@ -322,14 +322,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eCpZYSKs/v96ux1l4TRkJJrhwcLSQk0zaKefmSgE+i0=
+			06bIEHqB19sXiI81NTlnhH6CAHvVejh/g+GeHIzHB88=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wTeObuOuh8oeLVK4fdhPTj8UOLVFddcTFJMMo6c1Svc=
+			JUDEBu86TnNOwt7mdN6h9CqW7lqU4ZZktv01xSefQ/Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -350,7 +350,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6ZSJHixhFlwaQGouK8QMO3LuGN7ad1driABV/FTWKf0=
+			EcQjzGmUwTdnUgSDByuLTMkCrgd4YYTzK9fLBNEIsFQ=
 			</data>
 		</dict>
 		<key>liveness.gif</key>
