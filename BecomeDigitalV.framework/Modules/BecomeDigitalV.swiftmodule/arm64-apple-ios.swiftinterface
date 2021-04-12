@@ -65,6 +65,7 @@ public struct ResponseIV {
     case SUCCES
     case ERROR
     case PENDING
+    case NOFOUND
     public static func == (a: BecomeDigitalV.ResponseIV.typeEstatus, b: BecomeDigitalV.ResponseIV.typeEstatus) -> Swift.Bool
     public var hashValue: Swift.Int {
       get
