@@ -160,7 +160,7 @@ extension NSPersistentStoreCoordinator {
 @objc @_hasMissingDesignatedInitializers public class MainViewController : UIKit.UIViewController {
   @objc dynamic public init()
   public var bdivConfig: BecomeDigitalV.BDIVConfig?
-  public var onDoneBlock: ((BecomeDigitalV.ResponseIV) -> Swift.Void)?
+  public var delegate: BecomeDigitalV.BDIVDelegate?
   @objc override dynamic public func viewDidLoad()
   @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)
   @objc deinit
