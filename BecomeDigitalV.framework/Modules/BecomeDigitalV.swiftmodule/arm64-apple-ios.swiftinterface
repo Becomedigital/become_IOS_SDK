@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
-// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name BecomeDigitalV
+// swift-compiler-version: Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name BecomeDigitalV
 import AVFoundation
 import AVKit
 import Alamofire
@@ -22,14 +22,14 @@ extension UIImage {
   public class func gif(url: Swift.String) -> UIKit.UIImage?
   public class func gif(name: Swift.String) -> UIKit.UIImage?
 }
-@objc public protocol BDIVDelegate : AnyObject {
+@objc public protocol BDIVDelegate {
   @objc func BDIVResponseSuccess(bdivResult: Swift.AnyObject)
   @objc func BDIVResponseError(error: Swift.String)
 }
 public struct GlobalVariables : Swift.Codable {
   public static var rootViewController: BecomeDigitalV.MainViewController?
-  public init(from decoder: Swift.Decoder) throws
   public func encode(to encoder: Swift.Encoder) throws
+  public init(from decoder: Swift.Decoder) throws
 }
 extension Countries {
   @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<BecomeDigitalV.Countries>
@@ -67,10 +67,10 @@ public struct ResponseIV {
     case PENDING
     case NOFOUND
     public static func == (a: BecomeDigitalV.ResponseIV.typeEstatus, b: BecomeDigitalV.ResponseIV.typeEstatus) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public var id: Swift.String
   public var created_at: Swift.String
@@ -130,8 +130,8 @@ public struct BDIVConfig {
   @objc deinit
 }
 @_inheritsConvenienceInitializers @objc(Countries) public class Countries : CoreData.NSManagedObject {
-  @objc deinit
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
+  @objc deinit
 }
 @_hasMissingDesignatedInitializers public class BDIVCallBack {
   public class var sharedInstance: BecomeDigitalV.BDIVCallBack {
@@ -147,15 +147,15 @@ extension NSPersistentStoreCoordinator {
     case modelCreationError
     case storePathNotFound
     public static func == (a: CoreData.NSPersistentStoreCoordinator.CoordinatorError, b: CoreData.NSPersistentStoreCoordinator.CoordinatorError) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
 }
 @objc @_inheritsConvenienceInitializers public class Permissions : UIKit.UIResponder, UIKit.UIApplicationDelegate, UserNotifications.UNUserNotificationCenterDelegate, CoreLocation.CLLocationManagerDelegate {
-  @objc deinit
   @objc override dynamic public init()
+  @objc deinit
 }
 @objc @_hasMissingDesignatedInitializers public class MainViewController : UIKit.UIViewController {
   @objc dynamic public init()
@@ -163,6 +163,6 @@ extension NSPersistentStoreCoordinator {
   public var delegate: BecomeDigitalV.BDIVDelegate?
   @objc override dynamic public func viewDidLoad()
   @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)
-  @objc deinit
   @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc deinit
 }
