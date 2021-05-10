@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
 		<data>
-		PGIMBBFNfg0ngKu1aTWumfHiefg=
+		41MjfMB1oJTVvK7NNPuNWSAsnyg=
 		</data>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
 		<data>
@@ -98,11 +98,11 @@
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		+ALNXfo1/KTxUdauFWf3eCwR+lc=
+		haijq8gJRsTlN1K3xC4IXYQOBb8=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		+ALNXfo1/KTxUdauFWf3eCwR+lc=
+		haijq8gJRsTlN1K3xC4IXYQOBb8=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -229,7 +229,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			N/PA05KLDXNMNN0NhnB3DgY6GzjpMavdvlMJk13jSso=
+			18f5k6lFviF9DtMGGr2DuP3YKEo4r9V42pIn9KfkcVc=
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
@@ -299,14 +299,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9yhGqByeGuS/KjnFL9OcQ2XnGVFXKjFabVO3QMaGDU0=
+			t+S9UCFA440HGDnwG2809swmMQ5S3Rf4PpsP7gJXu7M=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9yhGqByeGuS/KjnFL9OcQ2XnGVFXKjFabVO3QMaGDU0=
+			t+S9UCFA440HGDnwG2809swmMQ5S3Rf4PpsP7gJXu7M=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftdoc</key>
