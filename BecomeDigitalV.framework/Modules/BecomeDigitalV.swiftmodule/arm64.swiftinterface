@@ -59,7 +59,7 @@ extension Countries {
   }
 }
 public struct ResponseIV {
-  public init(id: Swift.String, created_at: Swift.String, company: Swift.String, fullname: Swift.String, birth: Swift.String, document_type: Swift.String, document_number: Swift.String, face_match: Swift.Bool, template: Swift.Bool, alteration: Swift.Bool, watch_list: Swift.Bool, comply_advantage_result: Swift.String, comply_advantage_url: Swift.String, verification_status: Swift.String, device_model: Swift.String, os_version: Swift.String, browser_major: Swift.String, browser_version: Swift.String, ua: Swift.String, device_type: Swift.String, device_vendor: Swift.String, os_name: Swift.String, browser_name: Swift.String, issuePlace: Swift.String, emissionDate: Swift.String, ageRange: Swift.String, savingAccountsCount: Swift.String, financialIndustryDebtsCount: Swift.String, solidarityIndustryDebtsCount: Swift.String, serviceIndustryDebtsCount: Swift.String, commercialIndustryDebtsCount: Swift.String, ip: Swift.String, frontImgUrl: Swift.String, backImgUrl: Swift.String, selfiImageUrl: Swift.String, message: Swift.String, responseStatus: BecomeDigitalV.ResponseIV.typeEstatus)
+  public init(id: Swift.String, created_at: Swift.String, company: Swift.String, fullname: Swift.String, dni_number: Swift.String, birth: Swift.String, document_type: Swift.String, document_number: Swift.String, face_match: Swift.Bool, template: Swift.Bool, alteration: Swift.Bool, watch_list: Swift.Bool, comply_advantage_result: Swift.String, comply_advantage_url: Swift.String, verification_status: Swift.String, device_model: Swift.String, os_version: Swift.String, browser_major: Swift.String, browser_version: Swift.String, ua: Swift.String, device_type: Swift.String, device_vendor: Swift.String, os_name: Swift.String, browser_name: Swift.String, issuePlace: Swift.String, emissionDate: Swift.String, ageRange: Swift.String, savingAccountsCount: Swift.String, financialIndustryDebtsCount: Swift.String, solidarityIndustryDebtsCount: Swift.String, serviceIndustryDebtsCount: Swift.String, commercialIndustryDebtsCount: Swift.String, ip: Swift.String, frontImgUrl: Swift.String, backImgUrl: Swift.String, selfiImageUrl: Swift.String, message: Swift.String, responseStatus: BecomeDigitalV.ResponseIV.typeEstatus)
   public init()
   public enum typeEstatus {
     case SUCCES
@@ -76,6 +76,7 @@ public struct ResponseIV {
   public var created_at: Swift.String
   public var company: Swift.String
   public var fullname: Swift.String
+  public var dni_number: Swift.String
   public var birth: Swift.String
   public var document_type: Swift.String
   public var document_number: Swift.String
