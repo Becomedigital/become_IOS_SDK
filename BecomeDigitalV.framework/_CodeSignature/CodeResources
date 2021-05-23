@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		BZGeVv4734q5fcpq0hy5hgJRxQI=
+		U1+6PDSnzv4UgnLoda69vfbS4NM=
 		</data>
 		<key>CameraViewController.nib</key>
 		<data>
@@ -42,15 +42,15 @@
 		</data>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
 		<data>
-		DYClC2bI551A6mf7cOtxMlyMlHA=
+		8k8gmRBBMWOxg3OS9+RUpJ1KuLM=
 		</data>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
 		<data>
-		qAH1YHxLqCVR3aL4enuhQMWw8Tw=
+		sw+pfvrRRDFZ1jFdH3Vjm6ByBV4=
 		</data>
 		<key>Frameworks/Alamofire.framework/_CodeSignature/CodeResources</key>
 		<data>
-		v3DLvXpXDQ6DZI4BEulM0oOY/zs=
+		XeGFa8jAO4Fh+NyQxeXjTQu5ars=
 		</data>
 		<key>Headers/BecomeDigitalV-Swift.h</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		vPPvHkYnVVoseDuJOEYFykgA4tM=
+		pQJEyD1mo3BjiRCgG7Bc2Af1juw=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		vPPvHkYnVVoseDuJOEYFykgA4tM=
+		pQJEyD1mo3BjiRCgG7Bc2Af1juw=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		mJmbyV4OiWhgr6l0qc2f5PJoxA0=
+		Yd5X/TrexsGThO2N7TyASqnTHxo=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		mJmbyV4OiWhgr6l0qc2f5PJoxA0=
+		Yd5X/TrexsGThO2N7TyASqnTHxo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -132,7 +132,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			M+F8cDt30yhu8KGxN7Fqli0zCoU=
+			o9WUdary92Is7rIQMA/ZaIVMRi0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -141,7 +141,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xiMt6LNt9SPSGkZjO6pLCbSIR7s=
+			6EIxEEFNF4jKk6ceznYxDpZ+/sY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -150,7 +150,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PfNi+UZcQH1Rwdlx6z7a38nO+qM=
+			883c29CDMNDSKm3jE7n8Hifv6RQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -174,7 +174,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9VFNY3EcPVKvk/RHtHeg6bAaQypWpPbnR+OYw8ejYbQ=
+			vhM5xotHTEW4STVorgwNmVDQCmoqkVMJepxXQM8cMGI=
 			</data>
 		</dict>
 		<key>CameraViewController.nib</key>
@@ -237,21 +237,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gLLEq0nB+OfNCmlNQPJj1gfH3s9k2wXAxvu+Db5d9Fw=
+			BtiGiEJ9+xC1tgQcSbuIsf7cDsvgRrKzbga9No4IPcY=
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iLfrd/k7hxJcXlaKCB+CFyTWaK5FvWy1QYC/7kYT7cU=
+			XkXt/IvXMUjhiYS4TQcv/+1OHinpNhSe5wxqDnoNFFQ=
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fjX/illiFdFvfZZeY+PhGzkztIxeOpLqc+61q2+d9jI=
+			I4zBdUJXimsYzsECm6Bp89XZXf+5WHLYX2KU+B0ciD8=
 			</data>
 		</dict>
 		<key>Headers/BecomeDigitalV-Swift.h</key>
@@ -307,14 +307,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DK34NYMYlDI+RNXxsiV5ejMpipc1UAx8pQm91jj1xW4=
+			39ntLtfkXuXPK2XPW3OO8McyIw4sYJPA9B9/vuURrKM=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DK34NYMYlDI+RNXxsiV5ejMpipc1UAx8pQm91jj1xW4=
+			39ntLtfkXuXPK2XPW3OO8McyIw4sYJPA9B9/vuURrKM=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -335,7 +335,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LknucFJw8qR8iUEPHlPvvXyvtynrQeK9iWjLUXlqZCc=
+			snBTob3OvJx+b3AQsR9oBONgyBmFrU2JckoXofqSV4c=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftdoc</key>
@@ -356,7 +356,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LknucFJw8qR8iUEPHlPvvXyvtynrQeK9iWjLUXlqZCc=
+			snBTob3OvJx+b3AQsR9oBONgyBmFrU2JckoXofqSV4c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -384,7 +384,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T/cmEd0qBlAlvbaCSIlqs6gJwo3EDoYfJ/XM+Q5Y1v4=
+			tmlNd9RXGQd1o5XRbQFl5h5SqQyq6JVuyot0XlIO1FE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -393,7 +393,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BwnkgQ+vLHxlK1pahIJMMfdXdJ7qoJ6YAt5tE0bx34E=
+			PvuECtGoHs7BFA35oEUdOB/e/Is+3vyqh6TfV21jTu0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -402,7 +402,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4qiVkaoBLQvxsIicEJvyxqefgiBOIkskl9yGRajXn9I=
+			9dSpnRjW3r60M6vUUPhCdaFGy0M8PhZWoB97TNGmVcc=
 			</data>
 			<key>optional</key>
 			<true/>
