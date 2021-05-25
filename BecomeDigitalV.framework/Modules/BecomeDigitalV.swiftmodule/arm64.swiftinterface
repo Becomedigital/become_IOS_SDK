@@ -15,12 +15,12 @@ import SystemConfiguration
 import UIKit
 import UserNotifications
 extension UIImageView {
-  public func loadGif(name: Swift.String)
+  public func loadGif(name: Swift.String, bundle: Foundation.Bundle)
 }
 extension UIImage {
   public class func gif(data: Foundation.Data) -> UIKit.UIImage?
   public class func gif(url: Swift.String) -> UIKit.UIImage?
-  public class func gif(name: Swift.String) -> UIKit.UIImage?
+  public class func gif(name: Swift.String, bundle: Foundation.Bundle) -> UIKit.UIImage?
 }
 @objc public protocol BDIVDelegate {
   @objc func BDIVResponseSuccess(bdivResult: Swift.AnyObject)
