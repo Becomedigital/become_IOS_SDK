@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		AcyxkBQjonaxi9cMmUVBR1NF+L0=
+		scE78YSGmUhPFPMgMnoOM3hTpNw=
 		</data>
 		<key>CameraViewController.nib</key>
 		<data>
@@ -42,15 +42,15 @@
 		</data>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
 		<data>
-		bWabTWtbZy7Yii7R80gYNuRJTQw=
+		rw01nRfeEjaKTglUJFCV5SBDzcQ=
 		</data>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
 		<data>
-		afj0OtQgS/FzMz/2vXHsImNslXw=
+		s9Z/czEkrXXlTMxC2wh3yohJn8A=
 		</data>
 		<key>Frameworks/Alamofire.framework/_CodeSignature/CodeResources</key>
 		<data>
-		y+0dL1R3MG0mQR3e7Zaa85HFZ7Q=
+		2el4JKvMvnOJ4DROd2+6Z96FaA4=
 		</data>
 		<key>Headers/BecomeDigitalV-Swift.h</key>
 		<data>
@@ -174,7 +174,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oCbrzjcb4YPVZeRFpSs+UT93+eL7NuBG52Iy4Vubdgc=
+			nsacEK2DXwdmxpG4fL/BYRlr6RHMFqu3zK1iINAV0ts=
 			</data>
 		</dict>
 		<key>CameraViewController.nib</key>
@@ -237,21 +237,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9ow3JxJvMm84n0anrZV6Jq0t1bMs0J8jdJ5C7MgCtwo=
+			+ewqgF7BUHAHIXF+hErjloEEzWwDX5Y6Uy3Wcj0d/iY=
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9zVqJgfATLki5s4MQ4pCWSix58FtoM4UsLxRg2M88y4=
+			2ebJDubXsrr6/5pLyf+Rlzij48JuCvH8TkGybIgJo2s=
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FAggJtFvdNEsS1D8MwTVkNaT893hNyP4LKSnP5JzNco=
+			XICX6pNJo7et49udqVSZFVwFT7+qrRMzQC3I4oGkimg=
 			</data>
 		</dict>
 		<key>Headers/BecomeDigitalV-Swift.h</key>
