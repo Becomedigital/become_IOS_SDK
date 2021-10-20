@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		Z8MrQycRiP/5yT79IQJykXPQSSo=
+		evs4SOU1RS4/GRdu7B4yxjF50EQ=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		Z8MrQycRiP/5yT79IQJykXPQSSo=
+		evs4SOU1RS4/GRdu7B4yxjF50EQ=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ecWZKXZINt+roTUVH9BLGK2IS68=
+		Yfs07bLuenK5VipSewHCNzpKLUc=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ecWZKXZINt+roTUVH9BLGK2IS68=
+		Yfs07bLuenK5VipSewHCNzpKLUc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -307,14 +307,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5NE9NRLtlF5UwTeXRisaAdr5DTX8itsLQIBbBewDzIU=
+			SF2GkGZEtq48LPdZ/+UK+V31kE/UBse96MuCy5IgfWQ=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5NE9NRLtlF5UwTeXRisaAdr5DTX8itsLQIBbBewDzIU=
+			SF2GkGZEtq48LPdZ/+UK+V31kE/UBse96MuCy5IgfWQ=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -335,7 +335,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sf79nLPJxaIsg+SElZ76VHhfThqY3kKa1ch+4tFgVFQ=
+			n1D2OjNfE4OH9w0dgeaj1G1hdbLGcs9DouHrg2zPkMM=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64.swiftdoc</key>
@@ -356,7 +356,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sf79nLPJxaIsg+SElZ76VHhfThqY3kKa1ch+4tFgVFQ=
+			n1D2OjNfE4OH9w0dgeaj1G1hdbLGcs9DouHrg2zPkMM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
