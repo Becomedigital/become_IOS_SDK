@@ -2,6 +2,10 @@
 
 Este es un espacio para conocer a cerca de la app Become para validación biométrica de identidad en el sistema iOS.
 
+## Agregar Alamofire al proyecto
+Se debe agregar la librería **Alamofire** al proyecto, click [aqui](https://github.com/Alamofire/Alamofire) para la documentación. 
+
+
 ## Agregar Frameowrk al proyecto
 Se debe agregar el archivo **BecomeDigitalV.framework**  en  las configuraciones generales del proyecto en la sección **framework, libraries, and embedded content**:
 
@@ -193,3 +197,5 @@ Esta sección se encarga de proporcionar el fragmento de código para la impleme
 ## Requerimientos
 •	Tecnologías
 iOS 12 en adelante
+•	Alamofire
+5.5.0 / Swift Package Manager
