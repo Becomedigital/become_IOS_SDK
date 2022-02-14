@@ -1,6 +1,6 @@
 # Documentación de Become iOS SDK
 
-Este es un espacio para conocer a cerca de la app Become para validación biométrica de identidad en el sistema iOS.
+Proceso de instalación de la librería become_IOS_SDK.
 
 ## Agregar Alamofire al proyecto
 Se debe agregar la librería **Alamofire** al proyecto, click [aqui](https://github.com/Alamofire/Alamofire) para la documentación. 
