@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		thRUThwRdscGtT/au+AoEz3oWgA=
+		0z2ZMy2znAklPECtnaiPERgoXgw=
 		</data>
 		<key>CameraViewController.nib</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>IntroDocumentCaptureViewController.nib</key>
 		<data>
-		uF7K13j5SUBRr0F81qGr0JdJp5w=
+		OUKUCpsxEu0iuKsZUjr7pZn1GpA=
 		</data>
 		<key>IntroductionVideoViewController.nib</key>
 		<data>
@@ -74,19 +74,19 @@
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		ctYzVRAIINQ6sN5UK86yOmLH99M=
+		ebaulWgKiADJc+f7H3WEAanOOGo=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		AhQ6ZhCZDrWsdUjGUBislQySDqc=
+		R4VeTFTRs7FcNbTIP5rligFxVX0=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		OgQpjBkD86TxTElk76qSLUY0eVc=
+		4wT7vKU5CiGpQ/eBeV3oFg+0KcQ=
 		</data>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		x6TswcP2u91f2Tlnuuy+aVcNrjI=
+		+qnn74yrJMiWaN1dOKxG4LU2HCY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>PreviewImageViewController.nib</key>
 		<data>
-		igUY6xD06nNNQB7TQI5JIGC7JDg=
+		scUCNas7QIdpxhRrEOte5CBCrWw=
 		</data>
 		<key>SelectDocumentViewController.nib</key>
 		<data>
@@ -104,7 +104,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o9WUdary92Is7rIQMA/ZaIVMRi0=
+			bZr7tPaak+Ld5QrVnQ1hrxWFe54=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -113,7 +113,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6EIxEEFNF4jKk6ceznYxDpZ+/sY=
+			w6PlTcngcNYQTuVCWJ36HQ/QoHE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -122,7 +122,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			883c29CDMNDSKm3jE7n8Hifv6RQ=
+			M9t6iYCMb/fvec/cxXxl5w+DOOQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -146,7 +146,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XI2OxZN2b4VCmnMpdUc71g3QvFHzbSzGMSCFoMjiCtY=
+			QLpBCsGLWjl0A9b9OvnmEDgq8j99XFEhU/IKQxgqDyI=
 			</data>
 		</dict>
 		<key>CameraViewController.nib</key>
@@ -223,7 +223,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f1yXoyrrZFAQFIyQWY8xivwZeHCfNDqM8tCy6jwhqas=
+			dLDllB60TTRcXcTFTtXzv7exedijEANXMlIQFEh/Bvo=
 			</data>
 		</dict>
 		<key>IntroductionVideoViewController.nib</key>
@@ -258,28 +258,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KcithPm7Kj9oKSXHD0zgHZzKgpTrLs6KIrx0pEzz5Ds=
+			wrmCljaRidGsEDNi+CE+D8uIUE7qnRiIPQdX6USBJ5M=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			btlUB5/X+TwFjbjAzGUQnt3o8yz6CJ96YQtueJzGYuE=
+			TMH8l0bFuKB3Ab18vx5cDoycieePBpiwHX7nhGE34Wc=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g8Pn0BlPDai7kLuGhewDQX7MgkY+7zAEXKSA4cA2Rjk=
+			yEy/QBnJqA6f4JrwvxneAD53UWd/lIrMAYu4KNlEbHA=
 			</data>
 		</dict>
 		<key>Modules/BecomeDigitalV.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZtqzT24NtAE6CuAPSqRwPrd1L9u1SXnxjQlwgym4jEU=
+			D0cXEW2fuBx2e6GZfsJ07VbFkwWFgl2xmdMgRgo9Hig=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -293,7 +293,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OilN1YgWFHrCbKqE02igtJ1DZ5ZUiJdviDh7HLa6/nA=
+			h9Tw/1xYBlKEMjsMTywtAadxihQWCDQIiNn9ZMQkQkM=
 			</data>
 		</dict>
 		<key>SelectDocumentViewController.nib</key>
@@ -307,7 +307,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tmlNd9RXGQd1o5XRbQFl5h5SqQyq6JVuyot0XlIO1FE=
+			vB2nrh9wPVqe/l1qC0rZkO4TSdBbY8HywbtaEPoexxo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -316,7 +316,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PvuECtGoHs7BFA35oEUdOB/e/Is+3vyqh6TfV21jTu0=
+			VQr4qpkFCsy0rhFBDZhWSpnQerHRGXPk+0BmVnO64Ac=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -325,7 +325,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9dSpnRjW3r60M6vUUPhCdaFGy0M8PhZWoB97TNGmVcc=
+			0P388fx+3LG+4whuMiD3pNjUubEwx2teYYxd5xSAeXk=
 			</data>
 			<key>optional</key>
 			<true/>

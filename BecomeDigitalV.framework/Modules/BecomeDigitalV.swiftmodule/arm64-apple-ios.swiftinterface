@@ -9,6 +9,7 @@ import CoreData
 import Foundation
 import ImageIO
 import MapKit
+import Microblink
 import Photos
 import Swift
 import SystemConfiguration
@@ -116,13 +117,12 @@ public struct ResponseIV {
   public var responseStatus: BecomeDigitalV.ResponseIV.typeEstatus
 }
 public struct BDIVConfig {
-  public init(clienId: Swift.String, clientSecret: Swift.String, contractId: Swift.String, validationTypes: Swift.String, userId: Swift.String, allowLibraryLoading: Swift.Bool, customerLogo: Swift.String)
+  public init(clienId: Swift.String, clientSecret: Swift.String, contractId: Swift.String, validationTypes: Swift.String, userId: Swift.String, customerLogo: Swift.String)
   public let clienId: Swift.String
   public var customerLogo: Swift.String
   public let clientSecret: Swift.String
   public let contractId: Swift.String
   public let validationTypes: Swift.String
-  public let allowLibraryLoading: Swift.Bool
   public let userId: Swift.String
 }
 @_hasMissingDesignatedInitializers public class CountriesView {
